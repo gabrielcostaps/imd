@@ -1,0 +1,14 @@
+{
+  "name": "servidor-web",
+  "version": "1.0.0",
+  "description": "servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
+}
